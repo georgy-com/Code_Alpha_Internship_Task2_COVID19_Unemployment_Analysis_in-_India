@@ -1,3 +1,5 @@
+Overview:
+
 The analysis examined unemployment trends across Indian states using monthly unemployment data. The primary objective was to understand the effects of COVID-19 on unemployment, identify regional and seasonal patterns, and generate insights that could inform labour market and economic policies.
 The results show that unemployment increased substantially during the COVID-19 period, demonstrating the severe disruption caused by nationwide lockdowns and restrictions. There were also considerable differences among states, suggesting that the pandemic affected regions unevenly depending on their economic structures and labour market conditions.
 Detailed Findings
